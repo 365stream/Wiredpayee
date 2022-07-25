@@ -6,7 +6,7 @@ DIGITAL MONEY FOR A DIGITAL AGE
 WIREPAYEE: A Digital Token
 WIREPAYEE provides protection from the volatility of cryptocurrencies. WIREPAYEE enables businesses including exchanges, wallets, payment processors, financial services and ATMs – to easily use Crypto-backed tokens on blockchains. By leveraging Blockchain technology, WIREPAYEE allows you to store, send and receive digital tokens person-to-person, globally, instantly, and securely for a fraction of the cost of alternatives.
 
-![USDH COIN Logo Small](https://user-images.githubusercontent.com/109957215/180757064-453ae16c-a5a6-44c9-a6d5-a987d0f7be9f.png)
+![USDH-COIN-Logo](https://user-images.githubusercontent.com/109957215/180759010-f7e069d7-c49a-44d2-a3b8-ad41c92937a7.png)
 
 
 HASH USD ( USDH) 
