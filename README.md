@@ -1,6 +1,6 @@
-# Wiredpayee
+# WIREPAYEE
 
-# DIGITAL MONEY FOR A DIGITAL AGE
+## DIGITAL MONEY FOR A DIGITAL AGE
 
 ![WIREPAYEE Logo Final 01](https://user-images.githubusercontent.com/109957215/180755578-8efc815c-d19d-4fa9-b773-5d5f080ad83e.png)
 
